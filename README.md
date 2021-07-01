@@ -1,2 +1,2 @@
 # dsai-nlp.github.io
-NLP at DSAI @ Chalmers
+NLP at DSAI @ Chalmers (README)
